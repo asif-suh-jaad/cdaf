@@ -6,4 +6,6 @@ In Order for this demo application to work we need to start the applications in 
 1) Spring Cloud Eureka (discovery-server)
 2) Spring Cloud Config Server 
 3) Spring Cloud Zuul (gateway-service)
-4) 
+4) Spring Cloud Config Server Consumer
+5) Node.js service
+6) Java service to consume both Node and Config Server Consumer service
