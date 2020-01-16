@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85e46e71-cc36-4604-84ba-2a13103a3f75" name="Default Changelist" comment="" />
+    <list default="true" id="3ef34456-2371-4988-91a0-5750a98d89d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../config-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4a68969ef8e858229267b842dedf42ab5dde4d50" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d272d43feaf01ffc662a49c518b43abd31a22103" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6ac6233474d90ddbf7f36f871f6bcafba0790e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ajv/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/argparse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/argparse/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asn1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/assert-plus/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/assert-plus/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/async/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/async/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asynckit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/asynckit/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aws-sign2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/aws-sign2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aws4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/aws4/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcrypt-pbkdf/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcrypt-pbkdf/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/caseless/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/caseless/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/combined-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/combined-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/core-util-is/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dashdash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/dashdash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/delayed-stream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ecc-jsbn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/esprima/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/esprima/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eureka-js-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eureka-js-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extsprintf/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/extsprintf/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fast-deep-equal/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/forever-agent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/forever-agent/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/form-data/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/form-data/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/getpass/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/getpass/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/har-schema/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/har-schema/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/har-validator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/har-validator/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-signature/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/http-signature/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ip/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ip/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-typedarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/is-typedarray/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isstream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/isstream/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-yaml/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/js-yaml/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsbn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsbn/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema-traverse/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-schema/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/json-stringify-safe/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jsprim/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/jsprim/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lodash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/lodash/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-db/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mime-types/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/oauth-sign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/oauth-sign/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/performance-now/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/performance-now/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/psl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/psl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/punycode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/punycode/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/request/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/safe-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/safer-buffer/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sprintf-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sprintf-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sshpk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sshpk/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/node_modules/punycode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/node_modules/punycode/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tough-cookie/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tunnel-agent/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tweetnacl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/tweetnacl/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uri-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uri-js/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/uuid/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/verror/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/verror/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,6 +78,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -20,8 +91,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1W7aFIGFjU43GmoF3aAYspDQd1b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="11.14.0" />
@@ -30,11 +102,6 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -53,20 +120,28 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="85e46e71-cc36-4604-84ba-2a13103a3f75" name="Default Changelist" comment="" />
-      <created>1578502982087</created>
+      <changelist id="3ef34456-2371-4988-91a0-5750a98d89d7" name="Default Changelist" comment="" />
+      <created>1579215196184</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578502982087</updated>
+      <updated>1579215196184</updated>
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
